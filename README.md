@@ -1,2 +1,3 @@
-# Reference
-Original reference data for Dejavu Package
+# Dejavu Reference Data
+
+Original reference data for R pacakge [`dejavu`](https://github.com/kl-lab/dejavu)
